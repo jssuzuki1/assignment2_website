@@ -1,3 +1,0 @@
-﻿# assignment2_website
-
-This is where my work was done.
